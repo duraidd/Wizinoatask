@@ -8,9 +8,9 @@ import Imgaemodal from '../Model/Imagedetails.js';
 
 
 cloudinary.config({
-    cloud_name: 'dqyzgfaam',
-    api_key: '759718523219177',
-    api_secret: '6hH6P-gbSK-4ijIOuXFHfgyKDcs'
+    cloud_name: '',
+    api_key: '',
+    api_secret: ''
 });
 
 
