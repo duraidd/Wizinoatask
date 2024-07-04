@@ -66,8 +66,8 @@ async function sendMail(datamail, otpdata) {
     var transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-            user: 'duraiessakimuthu@gmail.com',
-            pass: 'gxcc jnwm cjff olli'
+            user: '',
+            pass: ''
         }
     });
 
@@ -150,8 +150,8 @@ async function sendEmail(datamail) {
     var transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-            user: 'duraiessakimuthu@gmail.com',
-            pass: 'gxcc jnwm cjff olli'
+            user: '',
+            pass: ''
         }
     });
 
